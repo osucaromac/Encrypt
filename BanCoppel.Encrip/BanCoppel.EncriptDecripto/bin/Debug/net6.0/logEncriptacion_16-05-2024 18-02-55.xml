@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Reporte>
+  <ruta_origen></ruta_origen>
+  <num_archivos_para_procesar>0</num_archivos_para_procesar>
+  <ArchivosFallidos>0</ArchivosFallidos>
+  <DescArchivosFallidos></DescArchivosFallidos>
+  <fecha_hora_inicio_fin>16/05/2024 06:02:54 p. m. a  16/05/2024 06:02:55 p. m.</fecha_hora_inicio_fin>
+  <Estatus_General_Proceso></Estatus_General_Proceso>
+  <Desc_Estatus_General_Proceso>The path is empty. (Parameter 'path')</Desc_Estatus_General_Proceso>
+</Reporte>

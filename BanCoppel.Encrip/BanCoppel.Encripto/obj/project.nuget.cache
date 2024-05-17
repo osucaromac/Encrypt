@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFkPtYxC6Aq3EwU331osdBT/VWx0V693hxBt8A6Yvte0YlmBUCpljBzkHYAIJLFNW99ueBplMWvo+OYnTcdfAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\bouncycastle.netcore\\1.8.6\\bouncycastle.netcore.1.8.6.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

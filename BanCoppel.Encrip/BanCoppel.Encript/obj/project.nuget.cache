@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "G8vEO+nvcAlxAY2uPaK6wAIUrUiUzxAOzqn+Apg8sgOCgeWg3dwXRgKpTWB+Y3/9c/FSFMmoa7zZ0JP3hF0zwg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

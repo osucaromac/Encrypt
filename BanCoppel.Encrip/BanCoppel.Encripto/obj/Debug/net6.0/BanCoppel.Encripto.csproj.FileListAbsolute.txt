@@ -1,0 +1,5 @@
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Encripto\obj\Debug\net6.0\BanCoppel.Encripto.csproj.AssemblyReference.cache
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Encripto\obj\Debug\net6.0\BanCoppel.Encripto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Encripto\obj\Debug\net6.0\BanCoppel.Encripto.AssemblyInfoInputs.cache
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Encripto\obj\Debug\net6.0\BanCoppel.Encripto.AssemblyInfo.cs
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Encripto\obj\Debug\net6.0\BanCoppel.Encripto.csproj.CoreCompileInputs.cache

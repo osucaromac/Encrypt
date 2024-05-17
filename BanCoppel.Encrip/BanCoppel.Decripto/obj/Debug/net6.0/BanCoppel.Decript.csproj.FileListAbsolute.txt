@@ -1,0 +1,16 @@
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\bin\Debug\net6.0\BanCoppel.Decript.deps.json
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\bin\Debug\net6.0\BanCoppel.Decript.dll
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\bin\Debug\net6.0\BanCoppel.Decript.pdb
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.csproj.AssemblyReference.cache
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.AssemblyInfoInputs.cache
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.AssemblyInfo.cs
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.csproj.CoreCompileInputs.cache
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.dll
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\refint\BanCoppel.Decript.dll
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppel.Decript.pdb
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\ref\BanCoppel.Decript.dll
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\bin\Debug\net6.0\BanCoppel.Decript.dll.config
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\bin\Debug\net6.0\BanCoppel.Util.dll
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\bin\Debug\net6.0\BanCoppel.Util.pdb
+C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.Decripto\obj\Debug\net6.0\BanCoppe.995089D0.Up2Date
