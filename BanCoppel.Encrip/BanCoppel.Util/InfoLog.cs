@@ -1,8 +1,8 @@
 ﻿using System.Xml.Linq;
 
-namespace BanCoppel.Logger
+namespace BanCoppel.Util
 {
-    public class GeneradorXML
+    public class GeneratorXML
     {
         private string rutaOrigen;
         private int numArchivosParaProcesar;
@@ -12,12 +12,13 @@ namespace BanCoppel.Logger
         private string fechaHoraInicioFin;
         string estatusGeneralProceso;
         string descEstatusGeneralProceso;
+        string rutaDestinoLog;
 
-        public GeneradorXML(string rutaOrigen, int numArchivosParaProcesar,
+        public GeneratorXML(string rutaOrigen, int numArchivosParaProcesar,
             List<Tuple<string, string, string, string, string, string, string>> listaDatos,
             int numArchivosProcesadosFallidos, string nomArchivosProcesadosFallidos,
-            string fechaHoraInicioFin, string estatusGeneralProceso, string descEstatusGeneralProceso)
-        {
+            string fechaHoraInicioFin, string estatusGeneralProceso, string descEstatusGeneralProceso, string rutaDestinoLog) // Nuevo parámetro para la ruta de destino
+            {
             this.rutaOrigen = rutaOrigen;
             this.numArchivosParaProcesar = numArchivosParaProcesar;
             this.listaDatos = listaDatos;
@@ -26,6 +27,7 @@ namespace BanCoppel.Logger
             this.fechaHoraInicioFin = fechaHoraInicioFin;
             this.estatusGeneralProceso = estatusGeneralProceso;
             this.descEstatusGeneralProceso = descEstatusGeneralProceso;
+            this.rutaDestinoLog = rutaDestinoLog;
         }
 
         public void GenerarXML(string nombreArchivo)
@@ -53,16 +55,13 @@ namespace BanCoppel.Logger
                     new XElement("RutaDestino", dato.Item6),
                     new XElement("HoraInicio-Fin", dato.Item7)
                 );
-                doc.Root.Add(reporte);
+                doc.Root?.Add(reporte);
             }
 
             string fechaActual = DateTime.Now.ToString("dd-MM-yyyy HH-mm-ss"); // Agrega hora, minuto y segundo al nombre del archivo
-            string nombreArchivoCompleto = $"{nombreArchivo}_{fechaActual}.xml";
-
+            string nombreArchivoCompleto = Path.Combine(rutaDestinoLog, $"{nombreArchivo}_{fechaActual}.xml"); // Combina la ruta de destino con el nombre del archivo
             doc.Save(nombreArchivoCompleto);
         }
-
-
     }
 }
 
