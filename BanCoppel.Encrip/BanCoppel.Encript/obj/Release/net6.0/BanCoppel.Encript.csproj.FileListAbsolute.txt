@@ -1,0 +1,16 @@
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.AssemblyInfoInputs.cache
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.AssemblyInfo.cs
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.csproj.CoreCompileInputs.cache
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.sourcelink.json
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.csproj.AssemblyReference.cache
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\bin\Release\net6.0\BanCoppel.Encript.deps.json
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\bin\Release\net6.0\BanCoppel.Encript.dll
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\bin\Release\net6.0\BanCoppel.Encript.pdb
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\bin\Release\net6.0\BanCoppel.Common.dll
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\bin\Release\net6.0\BanCoppel.Common.pdb
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppe.6D3414A9.Up2Date
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.dll
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\refint\BanCoppel.Encript.dll
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\BanCoppel.Encript.pdb
+C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.Encript\obj\Release\net6.0\ref\BanCoppel.Encript.dll

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BanCoppel.EncriptDecript
-build_property.ProjectDir = C:\Users\nem.pcortes\Documents\CompartidaUbuntu\BanCoppel.Encrip\BanCoppel.EncriptDecript\
+build_property.ProjectDir = C:\Users\nem.pcortes\Documents\GitHub\Encrypt\BanCoppel.Encrip\BanCoppel.EncriptDecript\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

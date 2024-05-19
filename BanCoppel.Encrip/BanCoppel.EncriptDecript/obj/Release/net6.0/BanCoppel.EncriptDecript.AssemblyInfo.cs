@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanCoppel.EncriptDecript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf78cac147570cfc0a92f83322ff072923f2d87")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanCoppel.EncriptDecript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanCoppel.EncriptDecript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

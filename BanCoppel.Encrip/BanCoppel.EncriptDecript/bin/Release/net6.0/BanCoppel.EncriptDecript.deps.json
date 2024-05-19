@@ -8,13 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "BanCoppel.EncriptDecript/1.0.0": {
         "dependencies": {
+          "BanCoppel.Common": "1.0.0",
           "BanCoppel.Decript": "1.0.0",
-          "BanCoppel.Encrip": "1.0.0",
-          "BanCoppel.Util": "1.0.0",
-          "BouncyCastle.NetCore": "1.8.6",
-          "Portable.BouncyCastle": "1.9.0",
-          "System.Configuration.ConfigurationManager": "8.0.0",
-          "log4net": "2.0.15"
+          "BanCoppel.Encript": "1.0.0",
+          "System.Configuration.ConfigurationManager": "8.0.0"
         },
         "runtime": {
           "BanCoppel.EncriptDecript.dll": {}
@@ -59,36 +56,36 @@
           }
         }
       },
+      "BanCoppel.Common/1.0.0": {
+        "dependencies": {
+          "log4net": "2.0.15"
+        },
+        "runtime": {
+          "BanCoppel.Common.dll": {}
+        }
+      },
       "BanCoppel.Decript/1.0.0": {
         "dependencies": {
-          "BouncyCastle.NetCore": "1.8.6",
-          "Portable.BouncyCastle": "1.9.0",
-          "System.Configuration.ConfigurationManager": "8.0.0"
-        },
-        "runtime": {
-          "BanCoppel.Decript.dll": {}
-        }
-      },
-      "BanCoppel.Encrip/1.0.0": {
-        "dependencies": {
-          "BanCoppel.Util": "1.0.0",
-          "BouncyCastle.NetCore": "1.8.6",
-          "Portable.BouncyCastle": "1.9.0",
-          "System.Configuration.ConfigurationManager": "8.0.0"
-        },
-        "runtime": {
-          "BanCoppel.Encrip.dll": {}
-        }
-      },
-      "BanCoppel.Util/1.0.0": {
-        "dependencies": {
+          "BanCoppel.Common": "1.0.0",
           "BouncyCastle.NetCore": "1.8.6",
           "Portable.BouncyCastle": "1.9.0",
           "System.Configuration.ConfigurationManager": "8.0.0",
           "log4net": "2.0.15"
         },
         "runtime": {
-          "BanCoppel.Util.dll": {}
+          "BanCoppel.Decript.dll": {}
+        }
+      },
+      "BanCoppel.Encript/1.0.0": {
+        "dependencies": {
+          "BanCoppel.Common": "1.0.0",
+          "BouncyCastle.NetCore": "1.8.6",
+          "Portable.BouncyCastle": "1.9.0",
+          "System.Configuration.ConfigurationManager": "8.0.0",
+          "log4net": "2.0.15"
+        },
+        "runtime": {
+          "BanCoppel.Encript.dll": {}
         }
       }
     }
@@ -134,17 +131,17 @@
       "path": "system.security.cryptography.protecteddata/8.0.0",
       "hashPath": "system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
     },
+    "BanCoppel.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "BanCoppel.Decript/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
-    "BanCoppel.Encrip/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "BanCoppel.Util/1.0.0": {
+    "BanCoppel.Encript/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

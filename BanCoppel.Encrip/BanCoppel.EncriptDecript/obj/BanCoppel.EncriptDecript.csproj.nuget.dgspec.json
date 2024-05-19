@@ -1,17 +1,101 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj": {}
+    "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj": {
+    "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj",
+        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj",
+        "projectName": "BanCoppel.Common",
+        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj",
+        "packagesPath": "C:\\Users\\nem.pcortes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\nem.pcortes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj",
         "projectName": "BanCoppel.Decript",
-        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj",
+        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj",
         "packagesPath": "C:\\Users\\nem.pcortes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\obj\\",
+        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -31,7 +115,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj": {
+                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -60,6 +148,10 @@
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "log4net": {
+              "target": "Package",
+              "version": "[2.0.15, )"
             }
           },
           "imports": [
@@ -96,14 +188,14 @@
         }
       }
     },
-    "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj": {
+    "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
+        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
         "projectName": "BanCoppel.EncriptDecript",
-        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
+        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
         "packagesPath": "C:\\Users\\nem.pcortes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\obj\\",
+        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -124,11 +216,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj": {
-                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj"
+              "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj": {
+                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj"
               },
-              "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj": {
-                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj"
+              "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj": {
+                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj"
+              },
+              "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj": {
+                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj"
               }
             }
           }
@@ -148,21 +243,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "BouncyCastle.NetCore": {
-              "target": "Package",
-              "version": "[1.8.6, )"
-            },
-            "Portable.BouncyCastle": {
-              "target": "Package",
-              "version": "[1.9.0, )"
-            },
             "System.Configuration.ConfigurationManager": {
               "target": "Package",
               "version": "[8.0.0, )"
-            },
-            "log4net": {
-              "target": "Package",
-              "version": "[2.0.15, )"
             }
           },
           "imports": [
@@ -179,15 +262,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.30, 6.0.30]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             }
           ],
           "frameworkReferences": {
@@ -195,18 +282,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj": {
+    "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
+        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
         "projectName": "BanCoppel.Encript",
-        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
+        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
         "packagesPath": "C:\\Users\\nem.pcortes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\obj\\",
+        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -227,102 +314,10 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj": {
-                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj"
+              "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj": {
+                "projectPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj"
               }
             }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "BouncyCastle.NetCore": {
-              "target": "Package",
-              "version": "[1.8.6, )"
-            },
-            "Portable.BouncyCastle": {
-              "target": "Package",
-              "version": "[1.9.0, )"
-            },
-            "System.Configuration.ConfigurationManager": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48",
-            "net481"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
-            }
-          ],
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj",
-        "projectName": "BanCoppel.Util",
-        "projectPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj",
-        "packagesPath": "C:\\Users\\nem.pcortes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\nem.pcortes\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -371,15 +366,15 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.29, 6.0.29]"
+              "version": "[6.0.30, 6.0.30]"
             }
           ],
           "frameworkReferences": {
@@ -387,7 +382,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
         }
       }
     }

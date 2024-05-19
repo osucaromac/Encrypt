@@ -1,10 +1,9 @@
 ﻿using BanCoppel.Util;
-using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 
 
-namespace BanCoppel.AesEncrip
+namespace BanCoppel.AesEncript
 {
     public static class AESEncrip
     {

@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "G8vEO+nvcAlxAY2uPaK6wAIUrUiUzxAOzqn+Apg8sgOCgeWg3dwXRgKpTWB+Y3/9c/FSFMmoa7zZ0JP3hF0zwg==",
+  "dgSpecHash": "LJr+wxVz9XdvXjqc0t6cwI9R4Vg4pIoBPmQbb7FFqOhg0dnfcLUX2oBZNk7qh/C/JN5b8FZ+YS+pliu8bpLRdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
+  "projectFilePath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\bouncycastle.netcore\\1.8.6\\bouncycastle.netcore.1.8.6.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\log4net\\2.0.15\\log4net.2.0.15.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\portable.bouncycastle.1.9.0.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }

@@ -2,13 +2,12 @@
 using Org.BouncyCastle.Crypto.Parameters;
 using Org.BouncyCastle.OpenSsl;
 using Org.BouncyCastle.Security;
-using System;
 using System.Security.Cryptography;
 using System.Text;
 
 
 namespace BanCoppel.RSADencript
-{ 
+{
     public static class RSADecript
     {
    

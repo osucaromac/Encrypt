@@ -1,166 +1,363 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\",
+  "WorkspaceRootPath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}|BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encriptdecripto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}|BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj|solutionrelative:bancoppel.encriptdecripto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{75A6D0F1-9735-4D73-B6F8-688AC61A166D}|BanCoppel.Encript\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.encript\\bancoppel.encript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75A6D0F1-9735-4D73-B6F8-688AC61A166D}|BanCoppel.Encript\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encript\\bancoppel.encript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encripto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encripto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{0E90907D-EC50-467C-A15C-448194A50A22}|BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.encriptdecript\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0E90907D-EC50-467C-A15C-448194A50A22}|BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj|solutionrelative:bancoppel.encriptdecript\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}|BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encriptdecripto\\dofileencriptdecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}|BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj|solutionrelative:bancoppel.encriptdecripto\\dofileencriptdecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}|BanCoppel.Decript\\BanCoppel.Decript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.decript\\dofiledecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}|BanCoppel.Decript\\BanCoppel.Decript.csproj|solutionrelative:bancoppel.decript\\dofiledecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.decripto\\dofiledecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|solutionrelative:bancoppel.decripto\\dofiledecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A6D0F1-9735-4D73-B6F8-688AC61A166D}|BanCoppel.Encript\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.encript\\dofileencript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A6D0F1-9735-4D73-B6F8-688AC61A166D}|BanCoppel.Encript\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encript\\dofileencript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encripto\\dofileencript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encripto\\dofileencript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E90907D-EC50-467C-A15C-448194A50A22}|BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.encriptdecript\\dofileencriptdecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E90907D-EC50-467C-A15C-448194A50A22}|BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj|solutionrelative:bancoppel.encriptdecript\\dofileencriptdecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC8609E5-9454-4B55-A2AA-96B607A4F432}|BanCoppel.Utileria\\BanCoppel.Util.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.utileria\\fileutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC8609E5-9454-4B55-A2AA-96B607A4F432}|BanCoppel.Utileria\\BanCoppel.Util.csproj|solutionrelative:bancoppel.utileria\\fileutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}|BanCoppel.Decript\\BanCoppel.Decript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.decript\\bancoppel.decript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}|BanCoppel.Decript\\BanCoppel.Decript.csproj|solutionrelative:bancoppel.decript\\bancoppel.decript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encripto\\rsaencrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encripto\\rsaencrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B98051C-5797-4EB2-9400-E121874DD021}|BanCoppel.Common\\BanCoppel.Common.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.common\\bancoppel.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B98051C-5797-4EB2-9400-E121874DD021}|BanCoppel.Common\\BanCoppel.Common.csproj|solutionrelative:bancoppel.common\\bancoppel.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encripto\\aesencrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encripto\\aesencrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{75A6D0F1-9735-4D73-B6F8-688AC61A166D}|BanCoppel.Encript\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.encript\\aesencrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A6D0F1-9735-4D73-B6F8-688AC61A166D}|BanCoppel.Encript\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encript\\aesencrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.decripto\\rsadecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|solutionrelative:bancoppel.decripto\\rsadecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B98051C-5797-4EB2-9400-E121874DD021}|BanCoppel.Common\\BanCoppel.Common.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.common\\fileutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B98051C-5797-4EB2-9400-E121874DD021}|BanCoppel.Common\\BanCoppel.Common.csproj|solutionrelative:bancoppel.common\\fileutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.decripto\\aesdecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|solutionrelative:bancoppel.decripto\\aesdecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E90907D-EC50-467C-A15C-448194A50A22}|BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.encriptdecript\\bancoppel.encriptdecript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E90907D-EC50-467C-A15C-448194A50A22}|BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj|solutionrelative:bancoppel.encriptdecript\\bancoppel.encriptdecript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AC8609E5-9454-4B55-A2AA-96B607A4F432}|BanCoppel.Utileria\\BanCoppel.Util.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.utileria\\infolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AC8609E5-9454-4B55-A2AA-96B607A4F432}|BanCoppel.Utileria\\BanCoppel.Util.csproj|solutionrelative:bancoppel.utileria\\infolog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1B98051C-5797-4EB2-9400-E121874DD021}|BanCoppel.Common\\BanCoppel.Common.csproj|c:\\users\\nem.pcortes\\documents\\github\\encrypt\\bancoppel.encrip\\bancoppel.common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B98051C-5797-4EB2-9400-E121874DD021}|BanCoppel.Common\\BanCoppel.Common.csproj|solutionrelative:bancoppel.common\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.decripto\\bancoppel.decript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7C736837-5B84-4BFB-B81E-8F346563DF1D}|BanCoppel.Decripto\\BanCoppel.Decript.csproj|solutionrelative:bancoppel.decripto\\bancoppel.decript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Utileria\\BanCoppel.Util.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}|BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encriptdecripto\\bancoppel.encriptdecript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}|BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj|solutionrelative:bancoppel.encriptdecripto\\bancoppel.encriptdecript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.encripto\\bancoppel.encript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{D757A42C-36CB-4E15-A782-14A382A83FA5}|BanCoppel.Encripto\\BanCoppel.Encript.csproj|solutionrelative:bancoppel.encripto\\bancoppel.encript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AC8609E5-9454-4B55-A2AA-96B607A4F432}|BanCoppel.Utileria\\BanCoppel.Util.csproj|c:\\users\\nem.pcortes\\documents\\compartidaubuntu\\bancoppel.encrip\\bancoppel.utileria\\bancoppel.util.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AC8609E5-9454-4B55-A2AA-96B607A4F432}|BanCoppel.Utileria\\BanCoppel.Util.csproj|solutionrelative:bancoppel.utileria\\bancoppel.util.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Decripto\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Encripto\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\DoFileDecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Decripto\\DoFileDecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\DoFileEncript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Encripto\\DoFileEncript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.EncriptDecripto\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\AESEncrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Encripto\\AESEncrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\RSAEncrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Encripto\\RSAEncrip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Encripto\\BanCoppel.Encript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\RSADecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Decripto\\RSADecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\AESDecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Decripto\\AESDecript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Decripto\\BanCoppel.Decript.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\InfoLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Utileria\\InfoLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\FileUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BanCoppel.Utileria\\FileUtil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
-      "VerticalTabListWidth": 142,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedHeight": 188,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\App.config",
-              "RelativeDocumentMoniker": "BanCoppel.Encripto\\App.config",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\App.config",
-              "RelativeToolTip": "BanCoppel.Encripto\\App.config",
-              "ViewState": "AQIAADkAAAAAAAAAAAAEwEMAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\App.config",
+              "RelativeDocumentMoniker": "BanCoppel.EncriptDecript\\App.config",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\App.config",
+              "RelativeToolTip": "BanCoppel.EncriptDecript\\App.config",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwDwAAAByAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-17T15:58:18.119Z",
+              "WhenOpened": "2024-05-18T15:32:03.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\Logger.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Common\\Logger.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\Logger.cs",
+              "RelativeToolTip": "BanCoppel.Common\\Logger.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:28:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BanCoppel.Common",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj",
+              "RelativeDocumentMoniker": "BanCoppel.Common\\BanCoppel.Common.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj",
+              "RelativeToolTip": "BanCoppel.Common\\BanCoppel.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T15:24:36.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FileUtil.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\FileUtil.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Common\\FileUtil.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\FileUtil.cs",
+              "RelativeToolTip": "BanCoppel.Common\\FileUtil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:26:34.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "DoFileDecript.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\DoFileDecript.cs",
-              "RelativeDocumentMoniker": "BanCoppel.Decripto\\DoFileDecript.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\DoFileDecript.cs",
-              "RelativeToolTip": "BanCoppel.Decripto\\DoFileDecript.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAA8wCMAAAAcAAAA",
+              "Title": "DoFileEncript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\DoFileEncript.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Encript\\DoFileEncript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\DoFileEncript.cs",
+              "RelativeToolTip": "BanCoppel.Encript\\DoFileEncript.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAAoAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T15:40:33.711Z",
+              "WhenOpened": "2024-05-18T15:24:40.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AESEncrip.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\AESEncrip.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Encript\\AESEncrip.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\AESEncrip.cs",
+              "RelativeToolTip": "BanCoppel.Encript\\AESEncrip.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T15:24:18.862Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BanCoppel.EncriptDecript.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
+              "RelativeDocumentMoniker": "BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
+              "RelativeToolTip": "BanCoppel.EncriptDecript\\BanCoppel.EncriptDecript.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T15:11:56.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DoFileEncript.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\DoFileEncript.cs",
-              "RelativeDocumentMoniker": "BanCoppel.Encripto\\DoFileEncript.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\DoFileEncript.cs",
-              "RelativeToolTip": "BanCoppel.Encripto\\DoFileEncript.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAASwAcAAAAiAAAA",
+              "Title": "DoFileEncriptDecript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\DoFileEncriptDecript.cs",
+              "RelativeDocumentMoniker": "BanCoppel.EncriptDecript\\DoFileEncriptDecript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecript\\DoFileEncriptDecript.cs",
+              "RelativeToolTip": "BanCoppel.EncriptDecript\\DoFileEncriptDecript.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T15:35:56.733Z",
+              "WhenOpened": "2024-05-18T15:11:19.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\App.config",
-              "RelativeDocumentMoniker": "BanCoppel.EncriptDecripto\\App.config",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\App.config",
-              "RelativeToolTip": "BanCoppel.EncriptDecripto\\App.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-17T15:31:20.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "BanCoppel.EncriptDecript.csproj",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
-              "RelativeDocumentMoniker": "BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
-              "RelativeToolTip": "BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBMAAAANAAAA",
+              "DocumentIndex": 5,
+              "Title": "BanCoppel.Decript.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj",
+              "RelativeDocumentMoniker": "BanCoppel.Decript\\BanCoppel.Decript.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\BanCoppel.Decript.csproj",
+              "RelativeToolTip": "BanCoppel.Decript\\BanCoppel.Decript.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-17T00:01:31.014Z",
+              "WhenOpened": "2024-05-18T15:07:30.702Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DoFileEncriptDecript.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
-              "RelativeDocumentMoniker": "BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
-              "RelativeToolTip": "BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAABhAAAA",
+              "Title": "DoFileDecript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\DoFileDecript.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Decript\\DoFileDecript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decript\\DoFileDecript.cs",
+              "RelativeToolTip": "BanCoppel.Decript\\DoFileDecript.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAIEAAABhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T00:01:41.68Z",
+              "WhenOpened": "2024-05-18T15:03:28.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BanCoppel.Encript.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
+              "RelativeDocumentMoniker": "BanCoppel.Encript\\BanCoppel.Encript.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encript\\BanCoppel.Encript.csproj",
+              "RelativeToolTip": "BanCoppel.Encript\\BanCoppel.Encript.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-18T15:01:19.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\App.config",
+              "RelativeDocumentMoniker": "BanCoppel.Decripto\\App.config",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\App.config",
+              "RelativeToolTip": "BanCoppel.Decripto\\App.config",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T17:36:35.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\App.config",
+              "RelativeDocumentMoniker": "BanCoppel.Encripto\\App.config",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\App.config",
+              "RelativeToolTip": "BanCoppel.Encripto\\App.config",
+              "ViewState": "AQIAADkAAAAAAAAAAAAEwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T15:58:18.119Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "DoFileDecript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\DoFileDecript.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Decripto\\DoFileDecript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\DoFileDecript.cs",
+              "RelativeToolTip": "BanCoppel.Decripto\\DoFileDecript.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:40:33.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DoFileEncript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\DoFileEncript.cs",
+              "RelativeDocumentMoniker": "BanCoppel.Encripto\\DoFileEncript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\DoFileEncript.cs",
+              "RelativeToolTip": "BanCoppel.Encripto\\DoFileEncript.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAAAIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:35:56.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\App.config",
+              "RelativeDocumentMoniker": "BanCoppel.EncriptDecripto\\App.config",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\App.config",
+              "RelativeToolTip": "BanCoppel.EncriptDecripto\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-17T15:31:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BanCoppel.EncriptDecript.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
+              "RelativeDocumentMoniker": "BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
+              "RelativeToolTip": "BanCoppel.EncriptDecripto\\BanCoppel.EncriptDecript.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAlwBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T00:01:31.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DoFileEncriptDecript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
+              "RelativeDocumentMoniker": "BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
+              "RelativeToolTip": "BanCoppel.EncriptDecripto\\DoFileEncriptDecript.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T00:01:41.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "BanCoppel.Util.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs",
               "RelativeDocumentMoniker": "BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs",
               "RelativeToolTip": "BanCoppel.Utileria\\obj\\Debug\\net6.0\\BanCoppel.Util.AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,120 +365,110 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 20,
               "Title": "AESEncrip.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\AESEncrip.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\AESEncrip.cs",
               "RelativeDocumentMoniker": "BanCoppel.Encripto\\AESEncrip.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\AESEncrip.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\AESEncrip.cs",
               "RelativeToolTip": "BanCoppel.Encripto\\AESEncrip.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:52:42.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:52:42.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 21,
               "Title": "RSAEncrip.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\RSAEncrip.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\RSAEncrip.cs",
               "RelativeDocumentMoniker": "BanCoppel.Encripto\\RSAEncrip.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\RSAEncrip.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\RSAEncrip.cs",
               "RelativeToolTip": "BanCoppel.Encripto\\RSAEncrip.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:51:41.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:51:41.431Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
               "Title": "BanCoppel.Encript.csproj",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
               "RelativeDocumentMoniker": "BanCoppel.Encripto\\BanCoppel.Encript.csproj",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Encripto\\BanCoppel.Encript.csproj",
               "RelativeToolTip": "BanCoppel.Encripto\\BanCoppel.Encript.csproj",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwA0AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-16T23:51:23.377Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:51:23.377Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "RSADecript.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\RSADecript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\RSADecript.cs",
               "RelativeDocumentMoniker": "BanCoppel.Decripto\\RSADecript.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\RSADecript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\RSADecript.cs",
               "RelativeToolTip": "BanCoppel.Decripto\\RSADecript.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:23:11.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:23:11.584Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "AESDecript.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\AESDecript.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\AESDecript.cs",
               "RelativeDocumentMoniker": "BanCoppel.Decripto\\AESDecript.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\AESDecript.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\AESDecript.cs",
               "RelativeToolTip": "BanCoppel.Decripto\\AESDecript.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:23:15.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:23:15.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BanCoppel.Decript.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj",
+              "RelativeDocumentMoniker": "BanCoppel.Decripto\\BanCoppel.Decript.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj",
+              "RelativeToolTip": "BanCoppel.Decripto\\BanCoppel.Decript.csproj",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwA0AAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T23:22:14.134Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "BanCoppel.Decript.csproj",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj",
-              "RelativeDocumentMoniker": "BanCoppel.Decripto\\BanCoppel.Decript.csproj",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Decripto\\BanCoppel.Decript.csproj",
-              "RelativeToolTip": "BanCoppel.Decripto\\BanCoppel.Decript.csproj",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAgAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-16T23:22:14.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
               "Title": "BanCoppel.Util.csproj",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj",
               "RelativeDocumentMoniker": "BanCoppel.Utileria\\BanCoppel.Util.csproj",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\BanCoppel.Util.csproj",
               "RelativeToolTip": "BanCoppel.Utileria\\BanCoppel.Util.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAIwA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-16T23:15:09.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:15:09.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "InfoLog.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\InfoLog.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\InfoLog.cs",
               "RelativeDocumentMoniker": "BanCoppel.Utileria\\InfoLog.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\InfoLog.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\InfoLog.cs",
               "RelativeToolTip": "BanCoppel.Utileria\\InfoLog.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:15:38.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:15:38.922Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 27,
               "Title": "FileUtil.cs",
-              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\FileUtil.cs",
+              "DocumentMoniker": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\FileUtil.cs",
               "RelativeDocumentMoniker": "BanCoppel.Utileria\\FileUtil.cs",
-              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\CompartidaUbuntu\\BanCoppel.Encrip\\BanCoppel.Utileria\\FileUtil.cs",
+              "ToolTip": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Utileria\\FileUtil.cs",
               "RelativeToolTip": "BanCoppel.Utileria\\FileUtil.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAASwBkAAAA4AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAWwBkAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T23:15:31.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T23:15:31.944Z"
             }
           ]
         }

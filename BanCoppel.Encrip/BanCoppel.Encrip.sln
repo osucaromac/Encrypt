@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33723.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanCoppel.Util", "BanCoppel.Utileria\BanCoppel.Util.csproj", "{AC8609E5-9454-4B55-A2AA-96B607A4F432}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BanCoppel.Encript", "BanCoppel.Encript\BanCoppel.Encript.csproj", "{75A6D0F1-9735-4D73-B6F8-688AC61A166D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanCoppel.Decript", "BanCoppel.Decripto\BanCoppel.Decript.csproj", "{7C736837-5B84-4BFB-B81E-8F346563DF1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BanCoppel.Decript", "BanCoppel.Decript\BanCoppel.Decript.csproj", "{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanCoppel.Encript", "BanCoppel.Encripto\BanCoppel.Encript.csproj", "{D757A42C-36CB-4E15-A782-14A382A83FA5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BanCoppel.EncriptDecript", "BanCoppel.EncriptDecript\BanCoppel.EncriptDecript.csproj", "{0E90907D-EC50-467C-A15C-448194A50A22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanCoppel.EncriptDecript", "BanCoppel.EncriptDecripto\BanCoppel.EncriptDecript.csproj", "{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BanCoppel.Common", "BanCoppel.Common\BanCoppel.Common.csproj", "{1B98051C-5797-4EB2-9400-E121874DD021}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,22 +17,22 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AC8609E5-9454-4B55-A2AA-96B607A4F432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AC8609E5-9454-4B55-A2AA-96B607A4F432}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AC8609E5-9454-4B55-A2AA-96B607A4F432}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AC8609E5-9454-4B55-A2AA-96B607A4F432}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7C736837-5B84-4BFB-B81E-8F346563DF1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C736837-5B84-4BFB-B81E-8F346563DF1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C736837-5B84-4BFB-B81E-8F346563DF1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C736837-5B84-4BFB-B81E-8F346563DF1D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D757A42C-36CB-4E15-A782-14A382A83FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D757A42C-36CB-4E15-A782-14A382A83FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D757A42C-36CB-4E15-A782-14A382A83FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D757A42C-36CB-4E15-A782-14A382A83FA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB9527BC-D3F3-4FEE-8097-EE308D7744A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A6D0F1-9735-4D73-B6F8-688AC61A166D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A6D0F1-9735-4D73-B6F8-688AC61A166D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A6D0F1-9735-4D73-B6F8-688AC61A166D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A6D0F1-9735-4D73-B6F8-688AC61A166D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E32F05-D414-4C7B-A7EA-D2C0EB37D573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E90907D-EC50-467C-A15C-448194A50A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E90907D-EC50-467C-A15C-448194A50A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E90907D-EC50-467C-A15C-448194A50A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E90907D-EC50-467C-A15C-448194A50A22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B98051C-5797-4EB2-9400-E121874DD021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B98051C-5797-4EB2-9400-E121874DD021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B98051C-5797-4EB2-9400-E121874DD021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B98051C-5797-4EB2-9400-E121874DD021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

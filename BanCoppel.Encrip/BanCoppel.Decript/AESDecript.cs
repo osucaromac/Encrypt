@@ -1,14 +1,11 @@
-﻿using System.IO;
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 using System.Text;
 
 namespace BanCoppel.AesDencript
 {
     public static class AESDecript
     {
-        public static void Main()
-        {
-        }
+       
             public static byte[] DecryptFile(byte[] aesKey, byte[] ivParams, byte[] fileContent)
         {
             string res = "";
