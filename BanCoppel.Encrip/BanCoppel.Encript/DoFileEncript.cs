@@ -26,8 +26,8 @@ namespace BanCoppel.Encript
             string? diaFesEne = ConfigurationManager.AppSettings.Get("DiaFesEne");
             string? extArchivos = ConfigurationManager.AppSettings.Get("ExtencionArchivos");
             string? nomLogEncriptado = ConfigurationManager.AppSettings.Get("nomLogEncriptado") ?? "";
-            //string? ruta_destino = ConfigurationManager.AppSettings.Get("RutaArchivosEncriptWind");
-            string? ruta_destino = ConfigurationManager.AppSettings.Get("RutaArchivosEncript") ?? "";
+            string? ruta_destino = ConfigurationManager.AppSettings.Get("RutaArchivosEncriptWind");
+           // string? ruta_destino = ConfigurationManager.AppSettings.Get("RutaArchivosEncript") ?? "";
 
 
             List<Tuple<string, string, string, string, string, string, string>> listaDatos = new List<Tuple<string, string, string, string, string, string, string>>();
@@ -55,20 +55,17 @@ namespace BanCoppel.Encript
             try
             {
                 string[]? archivos_encriptar = null;
-                //string? ruta_origen = ConfigurationManager.AppSettings.Get("RutaArchivosDescript");
-                //string? ruta_destino = ConfigurationManager.AppSettings.Get("RutaArchivosEncript");
-
                 DateTime now = DateTime.Now;
                 dia = now.ToString().Substring(0, 2);
                 mes = now.ToString().Substring(3, 2);
                 try
                 {
-                    //string? ruta_origen = ConfigurationManager.AppSettings.Get("RutaArchivosDescriptWin") ?? "";
-                    string? ruta_origen = ConfigurationManager.AppSettings.Get("RutaArchivosDescript") ?? "";
+                    string? ruta_origen = ConfigurationManager.AppSettings.Get("RutaArchivosDescriptWin") ?? "";
+                    //string? ruta_origen = ConfigurationManager.AppSettings.Get("RutaArchivosDescript") ?? "";
 
                     
-                    // string? publicKey = ConfigurationManager.AppSettings.Get("RutaPublicKeyWind") ?? "";
-                    string? publicKey = ConfigurationManager.AppSettings.Get("RutaPublicKey") ?? "";
+                     string? publicKey = ConfigurationManager.AppSettings.Get("RutaPublicKeyWind") ?? "";
+                    //string? publicKey = ConfigurationManager.AppSettings.Get("RutaPublicKey") ?? "";
 
                     Console.WriteLine("---------  dia:::::   " + dia);
                     Console.WriteLine("---------  mes:::::   " + mes);

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BanCoppel.Decript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cf78cac147570cfc0a92f83322ff072923f2d87")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f51b26829085f50968ba6c81d69544a32a94e7d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("BanCoppel.Decript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BanCoppel.Decript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

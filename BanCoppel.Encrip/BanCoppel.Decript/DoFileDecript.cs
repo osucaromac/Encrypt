@@ -55,6 +55,7 @@ namespace BanCoppel.DoDecript
             string fechaHoraInicioFin = "";
             int numArchivosProcesar = 0;
             RSACryptoServiceProvider RSAprivateKey;
+            string temNomArchivo = "";
             try
             {
                 //string? ruta_origen = ConfigurationManager.AppSettings.Get("RutaArchivosEncript");
@@ -96,6 +97,8 @@ namespace BanCoppel.DoDecript
                             numArchivosProcesar = archivos_desencriptar.Length;
                             foreach (string archivo in archivos_desencriptar)
                             {
+                                temNomArchivo = archivo;
+
                                 try
                                 {
                                     fechaInicioProceso = DateTime.Now.ToString() ?? "";
@@ -124,9 +127,9 @@ namespace BanCoppel.DoDecript
                                     //Guardar en una ruta especifica los archivos cifrados.
                                     string archivoDesencriptado = Path.Combine(ruta_destino, Path.GetFileName(archivo));
                                     File.WriteAllText(archivoDesencriptado, decryptedText);
-                                    mnsjExitoso = ConfigurationManager.AppSettings.Get("MnsjDocEncriptCorrectamente") ?? "";
+                                    mnsjExitoso = ConfigurationManager.AppSettings.Get("MnsjDescEstatusDecriptOK") ?? "";
                                     estatus = ConfigurationManager.AppSettings.Get("EstatusOk") ?? "";
-                                    descEstatus = ConfigurationManager.AppSettings.Get("MnsjExitoso") ?? "";
+                                    descEstatus = ConfigurationManager.AppSettings.Get("MnsjDecriptExitosa") ?? "";
 
                                     logger.Info(ConfigurationManager.AppSettings.Get("MnsjDocDesencriptCorrectamente"));
                                     logger.Info(ConfigurationManager.AppSettings.Get("EstatusOk"));
@@ -140,11 +143,23 @@ namespace BanCoppel.DoDecript
                                 catch (FileNotFoundException e)
                                 {
                                     descEstatusGeneralProceso = e.Message ?? "";
-                                    estatusGeneralProceso = descEstatus = ConfigurationManager.AppSettings.Get("EstatusError") ?? "";
-                                    nomArchivosProcesadosFallidos = "\n" + archivos_desencriptar.Select(Path.GetFileName);
+                                    estatusGeneralProceso  = ConfigurationManager.AppSettings.Get("EstatusError") ?? "";
+                                    nomArchivosProcesadosFallidos = "\n" + Path.GetFileName(temNomArchivo);
                                     numArchivosProcesadosFallidos++;
 
-                                    logger.Error("!!!!!  nom Archivo fallido ¡¡¡¡¡ " + archivos_desencriptar.Select(Path.GetFileName));
+                                    logger.Error("!!!!!  nom Archivo fallido ¡¡¡¡¡ " + Path.GetFileName(temNomArchivo));
+                                    logger.Error("!!!!!  Error ¡¡¡¡¡ " + e.Message);
+
+                                    Console.WriteLine("!!!!!!!!!!!!!!!!!  Error al cargar archivos ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡");
+                                    Console.WriteLine(e.Message);
+                                }
+                                catch (CryptographicException e) {
+                                    descEstatusGeneralProceso = e.Message ?? "";
+                                    estatusGeneralProceso = ConfigurationManager.AppSettings.Get("EstatusError") ?? "";
+                                    nomArchivosProcesadosFallidos = "\n" + Path.GetFileName(temNomArchivo);
+                                    numArchivosProcesadosFallidos++;
+
+                                    logger.Error("!!!!!  nom Archivo fallido ¡¡¡¡¡ " + Path.GetFileName(temNomArchivo));
                                     logger.Error("!!!!!  Error ¡¡¡¡¡ " + e.Message);
 
                                     Console.WriteLine("!!!!!!!!!!!!!!!!!  Error al cargar archivos ¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡");

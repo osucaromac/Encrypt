@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2kh5HC6GQ/GKRsAsYLEcQc0nH2Jso9AnKR83QsMa88aeFwRQZfRy92KGhydiTMGxqA+bIBYAWbrc8XWmTkT+VA==",
+  "dgSpecHash": "eo9rH7JotOE/TGqbW3zcbiKiWmMrPGkgmuMUyHm1poeQfS1N1fTP9k9OPsMgvZhfPS8IxM9rFPVdkX1qiXul7A==",
   "success": true,
   "projectFilePath": "C:\\Users\\nem.pcortes\\Documents\\GitHub\\Encrypt\\BanCoppel.Encrip\\BanCoppel.Common\\BanCoppel.Common.csproj",
   "expectedPackageFiles": [
@@ -11,9 +11,9 @@
     "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.5.0\\system.security.cryptography.protecteddata.4.5.0.nupkg.sha512",
     "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.security.permissions\\4.5.0\\system.security.permissions.4.5.0.nupkg.sha512",
     "C:\\Users\\nem.pcortes\\.nuget\\packages\\system.security.principal.windows\\4.5.0\\system.security.principal.windows.4.5.0.nupkg.sha512",
-    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
-    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\nem.pcortes\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512"
   ],
   "logs": []
 }
